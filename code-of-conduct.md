@@ -56,4 +56,4 @@ After filing a report, a representative will contact you personally, review the 
 
 ### Attribution & Acknowledgements
 
-We’d like to thank TODO Group for creating the Open Code of Conduct template from which this Code of Conduct was created and adapted. We’d also like to thank the Apache Foundation for the Apache Code of Conduct covering many of the technologies in and around TAP.
+We’d like to thank TODO Group for creating the [Open Code of Conduct template](https://github.com/todogroup/opencodeofconduct) from which this Code of Conduct was created and adapted. We’d also like to thank the Apache Foundation for the [Apache Code of Conduct](http://www.apache.org/foundation/policies/conduct) covering many of the technologies in and around TAP.
