@@ -1,6 +1,6 @@
-# TAP Code of Conduct
+# Women in AI Code of Conduct
 
-This repository contains the TAP [Code of Conduct](code-of-conduct.md), used at events, meetups, and throughout our online community.
+This repository contains the Women in AI [Code of Conduct](code-of-conduct.md), used at events, meetups, and throughout our online community.
 
 # How to contribute
 
