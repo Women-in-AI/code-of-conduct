@@ -1,6 +1,6 @@
-This code of conduct outlines our expectations for participants within the Trusted Analytics Platform (TAP) community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the Women in AI (WIAI) community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
-This code of conduct applies to all spaces and sites manager by the Trusted Analytics Platform (TAP) project including GitHub,  Jive, Twitter, and any other forum which the community uses for communication.
+This code of conduct applies to all spaces and sites managed by the Women in AI (WIAI) project including Meetup.com, GitHub, Twitter, and any other forum which the community uses for communication.
 
 **This code of conduct is not exhaustive or complete.**
 
@@ -46,7 +46,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via our Community Manager (trustedanalytics [at] gmail [dot] com). All reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting Amara Keller via (amara [dot] keller [at] intel [dot] com). All reports will be handled with discretion. In your report please include:
 * Your contact information.
 * Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
 * Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. Jive discussion thread), please include a link.
@@ -56,4 +56,4 @@ After filing a report, a representative will contact you personally, review the 
 
 ### Attribution & Acknowledgements
 
-We’d like to thank TODO Group for creating the [Open Code of Conduct template](https://github.com/todogroup/opencodeofconduct) from which this Code of Conduct was created and adapted. We’d also like to thank the Apache Foundation for the [Apache Code of Conduct](http://www.apache.org/foundation/policies/conduct) covering many of the technologies in and around TAP.
+We’d like to thank TODO Group for creating the [Open Code of Conduct template](https://github.com/todogroup/opencodeofconduct) from which this Code of Conduct was created and adapted.
